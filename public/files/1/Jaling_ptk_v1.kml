@@ -1,0 +1,3379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name><![CDATA[GANG DEWI SARTIKA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29582255383798,-0.007801180025559047,0
+          109.29583319996505,-0.007018506772193708,0
+          109.2958351574598,-0.006310331891811223,0
+          109.2958215883466,-0.0060402191230705775,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. GANDA PURA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Parit Tengah, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30497316447895,-0.009592509033440694,0
+          109.30624453155201,-0.009994840379797254,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG.SEMANGKA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : Jl. Apel, Kel. Sei Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32106867637151,-0.013969335172303764,0
+          109.32141229260571,-0.013520745948974358,0
+          109.32204797614224,-0.012772409653527963,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PEMANCINGAN 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karet, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29848905641859,-0.016006096543607486,0
+          109.29953900642795,-0.01621318010128689,0
+          109.299578969923,-0.01604606003724451,0
+          109.29965163082329,-0.016016995678262366,0
+          109.30198667896639,-0.016491931353956418,0
+          109.29964530313305,-0.0160118159596136,0
+          109.29957288348965,-0.016044002466537925,0
+          109.29953265035442,-0.016210299418867903,0
+          109.29952728593639,-0.016387752177086278,0
+          109.2995997055798,-0.01643334972846593,0
+          109.30040023147183,-0.016566050603498132,0
+          109.30206092636956,-0.01686645800038137,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PRISCA KRIDA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28740732002802,-0.005622383379675829,0
+          109.28756734347621,-0.004984971798776241,0
+          109.28757639985747,-0.00444105132460124,0
+          109.28759094164832,-0.003531072442646903,0
+          109.28758635583768,-0.002819247894672656,0
+          109.28758215009452,-0.002368700877079687,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. FAJAR KENCANA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Husein Hamzah, Kel Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.2831743002937,-0.04114415529692249,0
+          109.28264821725861,-0.04034104645355051,0
+          109.2821891588759,-0.03964846736434826,0
+          109.28168786204219,-0.03887195893684101,0
+          109.28098417068202,-0.03780982168857769,0
+          109.28098953510005,-0.03781518610544637,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG JARIAH 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Sawo, Kel. Sei Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31506769111354,-0.016438868668232805,0
+          109.31514279296596,-0.015905109095521626,0
+          109.3152496716682,-0.015144590738462261,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG MUSTAQIM 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karet, Kel. Sei. Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29803573896675,-0.012883888553520243,0
+          109.29729276706962,-0.013168202701743957,0
+          109.29650151541023,-0.013492749983766204,0
+          109.29645055343894,-0.013441788013889431,0
+          109.29488530719334,-0.014082912286852906,0
+          109.29501034113866,-0.01444748898848984,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SRIKAYA 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : Jl. H. Rais Arahman, Kel. Sei. Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32253311362217,-0.015057393905229857,0
+          109.3231875726218,-0.015626022195990453,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG KENARI 2 DALAM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Apel, Kel. Sei Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32243755590844,-0.010309476954249643,0
+          109.32171959497714,-0.01120097932588843,0
+          109.32140239676903,-0.011576689958741828,0
+          109.32084181508492,-0.012263335451693655,0
+          109.32009026044398,-0.013295893828648899,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. TRI PUTRI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30705492371783,-0.005682670749402371,0
+          109.30728574467412,-0.0047300713550962195,0
+          109.30743128692927,-0.004075353028879103,0
+          109.30760233848855,-0.0032874830192060676,0
+          109.30780993894746,-0.0024570811844804,0
+          109.30796251734262,-0.0017460249029499035,0
+          109.30804271950683,-0.0013319864381781833,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG KINIBALU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Martadinata, Kel. Sei Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3164797803745,-0.015903691404581408,0
+          109.31658438652607,-0.016332844829976177,0
+          109.3167694589481,-0.01629797611420404,0
+          109.31682846754643,-0.01629797611420404,0
+          109.31703076621352,-0.016972148628933627,0
+          109.31727193920324,-0.01781435116107946,0
+          109.31751785628535,-0.0187711348920686,0
+          109.31755792011074,-0.018936341450435247,0
+          109.31758474220089,-0.019193833501606087,0
+          109.3177425506733,-0.019910014319314294,0
+          109.31791253968288,-0.020703885388339317,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG BERSAMA 1 A]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Bersama, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3122589853906,-0.016435083535740996,0
+          109.31095811401838,-0.01588523070956129,0
+          109.31078377043241,-0.015810128860016065,0
+          109.3095855210322,-0.015366770717120644,0
+          109.30899034659478,-0.015135252674356194,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PEPAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32241618352805,-0.010162968713654701,0
+          109.32286370745169,-0.009602387037873038,0
+          109.32328213205801,-0.009159822556356669,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[JALUR IV ]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Sawo, Kel Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31241278586822,-0.013531865729483212,0
+          109.31149242294623,-0.01321000065646144,0
+          109.31050537002875,-0.012847902448814192,0
+          109.30918864261685,-0.01238119809153509,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. PILAR EMAS]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Husein Hamzah, Kel Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.2863091823674,-0.038304348462101366,0
+          109.28609185043456,-0.03800787831518008,0
+          109.2857561190848,-0.03748416483662082,0
+          109.28534434209769,-0.036882344059552756,0
+          109.28485254011105,-0.036155640787328705,0
+          109.2844126578326,-0.03549581749865261,0
+          109.28409131454032,-0.03502158838239227,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PUTRI ARUNG]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28780551197974,-0.005769776792174727,0
+          109.28793716120106,-0.005141966537321965,0
+          109.28798812317234,-0.004685428781251505,0
+          109.28797928019662,-0.004161308513234381,0
+          109.2879768306301,-0.0035428494911545123,0
+          109.28796610179404,-0.002805099058385481,0
+          109.28797086880354,-0.002432296523060203,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG MERDEKA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Husein Hamzah, Kel Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29677779962367,-0.028241464733097764,0
+          109.29654176523036,-0.027898142020399343,0
+          109.29610994850816,-0.027246392346774367,0
+          109.29561018558366,-0.02652093791532577,0
+          109.29514536415388,-0.025860047927106274,0
+          109.29475840532245,-0.0252798401020649,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG HIJRAH]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Husein Hamzah, Kel Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29649352882802,-0.028433340627544598,0
+          109.29578540173202,-0.02738126490647685,0
+          109.29519326498303,-0.02649623824294483,0
+          109.29458177560275,-0.025658525463972882,0
+          109.29446912282413,-0.025494910730363154,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG BUKIT RAYA 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, Kel. Sei Jawi dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31851966607701,-0.02059329346278583,0
+          109.31845529306065,-0.020126589123661335,0
+          109.31846452924219,-0.019742730157657346,0
+          109.31840159672765,-0.019173058966757032,0
+          109.31836444925693,-0.01888030223913982,0
+          109.31827463230638,-0.018521108559000726,0
+          109.31817522508766,-0.017838698227066976,0
+          109.31810848439795,-0.017508353481674455,0
+          109.31800449701473,-0.016918334810567,0
+          109.31787174797796,-0.016373344178402492,0
+          109.31765717567885,-0.015552084102395843,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. KENARI 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32047226961151,-0.013549076680895621,0
+          109.32063856657044,-0.013321088920905857,0
+          109.32064661319748,-0.013095783369636677,0
+          109.32108100979417,-0.012552402589740245,0
+          109.3211051496753,-0.012445114231693137,0
+          109.32170328228563,-0.011790655246696135,0
+          109.32276257468357,-0.010594585208710228,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. BERSAMA 1B]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Bersama, Kel Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31231310719545,-0.015578910667148432,0
+          109.31112757081087,-0.015157803866948535,0
+          109.30992057675417,-0.014693781723122685,0
+          109.30912236163499,-0.014351181091753594,0
+          109.30902848431947,-0.014340452256031578,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. DASSASILA ]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pelabuhan Rakyat, Kel. Sei. Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28703250469334,-0.005491666620910569,0
+          109.2870244580663,-0.005336098498742998,0
+          109.28699227155812,-0.005285136527683059,0
+          109.28694399179585,-0.005089335270393844,0
+          109.28689735422927,-0.004746523540292657,0
+          109.28682112128035,-0.004377078724012542,0
+          109.28675067270831,-0.004034401380946867,0
+          109.28673726166323,-0.003921748602596084,0
+          109.28669971073703,-0.003535510505267996,0
+          109.2866618086947,-0.002987988751022546,0
+          109.28666985532175,-0.002623733702773548,0
+          109.28670472403894,-0.002229448977947864,0
+          109.286776746756,-0.001459995593020391,0
+          109.28682493661086,-0.0009668287637518043,0
+          109.28689990387011,-0.0004745552900179801,0
+          109.28695393343878,0.00011477542660298418,0
+          109.2870213285521,0.000464989458910509,0
+          109.28705351506028,0.0008646386021060902,0
+          109.2870937481955,0.0009316938274614979,0
+          109.28725199852738,0.0009316938274614979,0
+          109.28732839707186,0.0012869828926741164,0
+          109.28733912590792,0.0013218516098584196,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KARYA TANI 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pelabuhan Rakyat, Kel. Sei. Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28884952373573,-0.002548000265091675,0
+          109.28800194568703,-0.0024112076054694388,0
+          109.28763993341113,-0.0023419894246923516,0
+          109.28730736174157,-0.002288345244441103,0
+          109.28672382009688,-0.002222201954492185,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG TARUNA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Bersama, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31235745318668,-0.0150042423172779,0
+          109.3114240444495,-0.01463409748560622,0
+          109.31136771806018,-0.014741385842673718,0
+          109.30907545959656,-0.01388027119486544,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SUKA PINANG]]></name>
+      <description><![CDATA[Lokasi Kegiatan : Jl. Kom Yos Sudarso, Kel. Sei. Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32501058135495,-0.012130130715237095,0
+          109.32431588922009,-0.012891878057288872,0
+          109.32353536639675,-0.013774324799298639,0
+          109.32329475679308,-0.014041559183392944,0
+          109.32327329912096,-0.014156894167538204,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG GUNUNG LAWIT]]></name>
+      <description><![CDATA[Lokasi Kegiatan : Jl. Apel, Kel. Sei. Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32012740800053,-0.01614857681071202,0
+          109.32011131474644,-0.0161834455265096,0
+          109.32018373438984,-0.01657236581777506,0
+          109.32028683839337,-0.017205308328418854,0
+          109.32033780036465,-0.017644387484021078,0
+          109.32044240651624,-0.01831148113418527,0
+          109.3205347271346,-0.018865707199070606,0
+          109.32061394514483,-0.019596820582526934,0
+          109.3206786206398,-0.020116604241561527,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG APEL 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : Jl. Apel, Kel. Sei. Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32203473274069,-0.014746553642219263,0
+          109.32130114857512,-0.01568666786877647,0
+          109.32125420991736,-0.015747017569334325,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KARYA TANI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pelabuhan Rakyat, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28888807633643,-0.002867490658637175,0
+          109.28967968965685,-0.0030471986623942546,0
+          109.29087059045946,-0.0033449238625794025,0
+          109.2913118498426,-0.0034348138646220485,0
+          109.29155324865394,-0.0034723647907686614,0
+          109.29196899105125,-0.0035072335079020757,0
+          109.29242228437477,-0.00354210222503549,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. ABDURRAHMAN]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Husein Hamzah, Kel. Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : PONDASI PASANGAN BATU
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3006745669951,-0.02620213628304626,0
+          109.30091596580644,-0.026621901949274898,0
+          109.30113590694566,-0.027041667614078647,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MURIA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3263318553984,-0.0190502358095892,0
+          109.3261740991777,-0.018193163879915722,0
+          109.32609924438088,-0.017764627913514148,0
+          109.32606852250501,-0.017550359929944418,0
+          109.32603780062914,-0.01733609194617113,0
+          109.3260261507844,-0.017258596656482456,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. INTAN PERMATA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karet, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29851446094403,-0.016510695238226767,0
+          109.29945021166361,-0.01671034968816309,0
+          109.30115701309592,-0.017069765680537807,0
+          109.301891938366,-0.01722265158754735,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SEKAWAN]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31984789705893,-0.020316018586883113,0
+          109.31969128762694,-0.01949911257513747,0
+          109.3195904401291,-0.018920338197542377,0
+          109.31944539888298,-0.018121085980696998,0
+          109.31940122706101,-0.01783906889486355,0
+          109.31939854485199,-0.017715687286121364,0
+          109.31937172276184,-0.017643267646161833,0
+          109.31933417183564,-0.017509157201723073,0
+          109.31924301830952,-0.01683881287953935,0
+          109.31914423469027,-0.016136691805591026,0
+          109.31905441205163,-0.01552229534660239,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. DUKU BARU 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31290384389081,-0.004522639682577264,0
+          109.3135329442888,-0.003183639309890621,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SAPTA MARGA JALUR 6]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29088351083215,-0.011078468377782185,0
+          109.28988623997566,-0.011035961751908071,0
+          109.2893959064861,-0.010966868772648242,0
+          109.2885231372968,-0.010853889806150993,0
+          109.28837561580099,-0.010800245626815743,0
+          109.2873370849452,-0.01069027505914477,0
+          109.28655192310725,-0.01058484230614942,0
+          109.28621664698039,-0.010515104872938535,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG JALUR 3A]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Sawo, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31249396711087,-0.013262807639150548,0
+          109.31254761129117,-0.013278900892809907,0
+          109.31369810133583,-0.01408288858444342,0
+          109.3152242782653,-0.015136959209405365,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. SUDIHARJO 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Suwignyo, Kel. Sei. Jawi
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31561794006586,-0.03191620427018726,0
+          109.31538355157932,-0.031955883189813544,0
+          109.31514916309288,-0.03201165536100003,0
+          109.31468038612002,-0.03213929295479324,0
+          109.31368128633255,-0.03242760730750427,0
+          109.3128187287466,-0.032685099331360504,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG AGUNG]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Haruna, Kel. Sei Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31729686510278,-0.015562613546854879,0
+          109.31756022805246,-0.016749812576602196,0
+          109.317766466497,-0.01773949029625934,0
+          109.31802676913367,-0.018900448633878835,0
+          109.31802140471564,-0.019010419197465975,0
+          109.3179784893714,-0.01908552104573898,0
+          109.31824700440461,-0.02064890175991257,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. RINJANI INDAH]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tabrani Ahmad, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3010877814786,-0.0215242713793213,0
+          109.30153613793391,-0.02252784502655196,0
+          109.3017530372963,-0.02301379301543801,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG HARAPAN]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, Kel. Sei Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31948183595705,-0.015479006208669162,0
+          109.31963922664545,-0.01663342223993675,0
+          109.31980608118897,-0.01779288110015361,0
+          109.31999665380704,-0.019038132792431564,0
+          109.3202190621646,-0.020231565885188336,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KARET MAKMUR]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karet, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.2982300666149,-0.013476085880285062,0
+          109.2985358384426,-0.013470721462411331,0
+          109.29918761523322,-0.013519001223338517,0
+          109.30053208085815,-0.013554922470758726,0
+          109.30134561195223,-0.013627342112117698,0
+          109.30188473596422,-0.013654164201499073,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG.DURIAN 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32687872492556,-0.017287980222242653,0
+          109.32713353478198,-0.016853462381124208,0
+          109.32772700591772,-0.015867926628976084,0
+          109.32804887099951,-0.015436396862570556,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG LANGSAT 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Apel, Kel. Sei. Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31440784424626,-0.009021145005694946,0
+          109.31391968220555,-0.010194095682563381,0
+          109.31388213127934,-0.010317477295274904,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ Kota/Kab : Kota Pontiana]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karet, Kel. Sei. Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29821748875088,-0.01747073065221927,0
+          109.2993922962994,-0.017878426403078507,0
+          109.30039544247097,-0.01815737612683838,0
+          109.30204183294188,-0.018624080471382542,0
+          109.30222366067835,-0.018987173448102683,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PERMATA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tabrani Ahmad, Kel. Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30604211826972,-0.01925582224761116,0
+          109.30554466832848,-0.018291047352921905,0
+          109.30508575289491,-0.01741878544901421,0
+          109.30462391975152,-0.01646482125727003,0
+          109.30454077127206,-0.01626902000718159,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. LESTARI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tebu, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30895594622177,-0.014579917170854982,0
+          109.30752901102585,-0.01428219197965172,0
+          109.30582557603555,-0.013869131803819754,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SELAMAT 1 DALAM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Selamat, Kel Sei. Jawi Luar
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32115948056185,-0.016739989487677867,0
+          109.32083225106203,-0.016748036114373963,0
+          109.320826886644,-0.016836549008069183,0
+          109.32092344616854,-0.017809499675584765,0
+          109.32095563267671,-0.018096496026091622,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG TRI DHARMA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29225186769463,-0.00697917887914117,0
+          109.29238490496937,-0.004973176081175984,0
+          109.2924606696713,-0.0033708994716444654,0
+          109.29255366304437,-0.001693563736564368,0
+          109.29261577639818,-0.00045707865060130946,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. BUKIT BATU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Berdikari, Kel Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28599819621775,-0.032853040245168406,0
+          109.28594186982843,-0.03299519729948449,0
+          109.28504382606525,-0.03386039273148916,0
+          109.2837751412012,-0.035083479820891696,0
+          109.28356906097258,-0.03528296695573889,0
+          109.28332766216124,-0.03553241234648703,0
+          109.28290119092787,-0.035927316474286375,0
+          109.28242719382024,-0.03639594907056283,0
+          109.28124299854016,-0.03756136864478283,0
+          109.28055031806207,-0.03823393240814882,0
+          109.27991932839132,-0.038844805373091346,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG GOTONG ROYONG 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31308388535899,-0.006446522757829791,0
+          109.3136233457451,-0.005495175106033631,0
+          109.31404540479787,-0.0047632404335517355,0
+          109.31440643393671,-0.0040637089083593505,0
+          109.31477033605779,-0.0033725772888547503,0
+          109.31490292242063,-0.0031261800266917422,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KARET INDAH]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karet, Kel. Sei. Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29817017777657,-0.01315687825430974,0
+          109.2991840527842,-0.013183700343754726,0
+          109.30060027761829,-0.013159560463246605,0
+          109.30193105363014,-0.013176054057267607,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG.KRAKATAU 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Husein Hamzah, Kel. Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29350920293143,-0.03137946609618522,0
+          109.29291643473914,-0.030606990012924794,0
+          109.29246723191636,-0.0300290412383833,0
+          109.29203016730935,-0.029444815554905964,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. BERDIKARI INDAH 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tabrani Ahmad, Kel. Pal Lima
+Kecamatan : PONTIANAK BARAT
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.28618860696042,-0.03248856756850855,0
+          109.28555464231727,-0.031663202898991216,0
+          109.28495819426757,-0.030828038371308226,0
+          109.28441262782212,-0.03007218171384477,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG.IKRAR]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, Kel. Sei. Jawi Dalam
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30891888011013,-0.023456883594883297,0
+          109.3085980641655,-0.022631228487468336,0
+          109.30830807529867,-0.02181949481380527,0
+          109.30800347419654,-0.02100979388786628,0
+          109.30765701391124,-0.0200760188561668,0
+          109.30730612685318,-0.019141374933339336,0
+          109.3072135579946,-0.018893532432357904,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SUTAN NASIR]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kom Yos Sudarso, Kel. Sei Beliung
+Kecamatan : PONTIANAK BARAT
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30773911108793,-0.00587822421074502,0
+          109.30805742470716,-0.004847651635076419,0
+          109.30813823774338,-0.0045926788481026135,0
+          109.30814628437042,-0.004461250606773941,0
+          109.30834826819057,-0.0035504593531533635,0
+          109.30851675684085,-0.0027156296176406437,0
+          109.30867627829753,-0.0019064422516295691,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KELURAHAN]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. AR. Saleh, Kel. Bangka Belitung Laut
+Kecamatan : PONTIANAK TENGGARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35949005001441,-0.05367667668294723,0
+          109.35899923793886,-0.05320258840222068,0
+          109.35738723032091,-0.0519419506959105,0
+          109.35644008396469,-0.05122179947589402,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. PADAHERANG]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Sepakat 2, Kel. Bansir Darat
+Kecamatan : PONTIANAK TENGGARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34543650385092,-0.06645437787104784,0
+          109.34637527700613,-0.06761309137243528,0
+          109.34700827833365,-0.06836947378206318,0
+          109.3473408722515,-0.06877180484616459,0
+          109.347432067358,-0.06888445754351301,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SEPAKAT 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. DR. Wahidin, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31082088949643,-0.03863650411135082,0
+          109.31150254054114,-0.03780842842250359,0
+          109.31222405476615,-0.03696085055422503,0
+          109.3123957161431,-0.03675968491973502,0
+          109.31280847569974,-0.036309097372868075,0
+          109.31312694482199,-0.0359588906719172,0
+          109.31379213265768,-0.035199825667067704,0
+          109.3143527143418,-0.03456950666539979,0
+          109.31484259010335,-0.03400721136124502,0
+          109.31529320121786,-0.03355391811652328,0
+          109.31580282093068,-0.03301479419550346,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. PERMATA AMPERA BLOK G - H]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL.Ampera, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29916820322649,-0.052724525622745926,0
+          109.2986478546776,-0.05332265797693443,0
+          109.29806313311235,-0.05399589214442257,0
+          109.29774931465761,-0.0543499435761421,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG KARYA 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. PGA. Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31567512427716,-0.04995788040072069,0
+          109.316126840636,-0.04925348403629667,0
+          109.31619657807039,-0.049162288963421855,0
+          109.31661946925783,-0.048698807935340795,0
+          109.31701643619203,-0.04826429023047731,0
+          109.3174834225473,-0.047696180205975006,0
+          109.31791201762564,-0.047203631053236834,0
+          109.3181373231829,-0.046951503490942424,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MORODADI 3A]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pak Benceng, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31026489770943,-0.05335554901724097,0
+          109.31114112493378,-0.05228620319837718,0
+          109.31207185146195,-0.05125899175298769,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SUKARELA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ampera, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3055282333795,-0.05801109588257307,0
+          109.30580181869902,-0.057796519270966434,0
+          109.30607003960051,-0.05759267148917871,0
+          109.30648421561432,-0.05728041957487223,0
+          109.30675243651581,-0.057060478545150145,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG CAHAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ampera, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29897580511602,-0.050924355358628284,0
+          109.29982874758275,-0.0502538033662868,0
+          109.30016670591863,-0.04998290035942356,0
+          109.30077864014459,-0.04950405250465522,0
+          109.30085105978799,-0.04942358626420736,0
+          109.3011586548821,-0.049189653289184655,0
+          109.30143224020162,-0.048961665606545975,0
+          109.30192844886938,-0.04868687791220356,0
+          109.30244343300024,-0.04835428411360874,0
+          109.30292574367104,-0.04802656777775259,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SELAMAT BERSAMA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pangeran Nata Kusuma, Kel. Sei Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31780556270621,-0.0364694872356013,0
+          109.31686947176001,-0.03565107292694028,0
+          109.31642036372114,-0.035250996264792694,0
+          109.3157122605412,-0.03460177911307439,0
+          109.3149844826844,-0.03391423451433577,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG WASPADA IV]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31563017534916,-0.02134305689479646,0
+          109.3157642857999,-0.02204847781512941,0
+          109.315962769267,-0.02296405250029783,0
+          109.31619033691527,-0.023872481044421516,0
+          109.31639150259139,-0.02467097975073942,0
+          109.31643102577004,-0.02482796777214449,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. ALEXIS]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Danau Sentarum, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31293211917944,-0.04195578367096939,0
+          109.31256733875341,-0.041650011924657955,0
+          109.31217506115365,-0.041301324844071396,0
+          109.31175765664102,-0.04094241897536604,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. PODOMULYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Putri candra Midi, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32731264737038,-0.03863230429516264,0
+          109.32702859782523,-0.03895632229087712,0
+          109.32608996779402,-0.03983455654829497,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SARIKATON]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. DR. Sutomo, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31473833331802,-0.046425173914341415,0
+          109.31477856645324,-0.04634202546213237,0
+          109.3150038720105,-0.0461194021863627,0
+          109.31529891500213,-0.04584849916311324,0
+          109.31556713590362,-0.045596371595984383,0
+          109.31614699279044,-0.04508456957403625,0
+          109.3166516458707,-0.04465044963214012,0
+          109.3167213833051,-0.04458607663530107,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KAKAKTUA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Merdeka, Kel. Mariana
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32926453585492,-0.021173600464175893,0
+          109.3303240084158,-0.021050218857863647,0
+          109.33063782687054,-0.020934883877967606,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG MELATI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Prof. M. Yamin, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30548342898487,-0.061644630070384274,0
+          109.3047672791779,-0.06098480703054205,0
+          109.30380537444762,-0.06009777892935324,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PERKUTUT]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Rajawali, Kel. Mariana
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33325795117526,-0.023566288143002715,0
+          109.3326356786838,-0.023306113890324782,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. HASYIM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ujung Pandang, Kel. Sei Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30053070866074,-0.027795836234357236,0
+          109.30102072791965,-0.028695822845859576,0
+          109.3014338742505,-0.02949537945691469,0
+          109.3020920397746,-0.030797032123660258,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG.PETANI 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Petani, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30337467922868,-0.048879067107074785,0
+          109.302390496925,-0.04949023372778389,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG.MARGODADIREJO 2A]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Margodadirejo, Kel. Sei. jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3100973403225,-0.026876042554993797,0
+          109.31019121763802,-0.027399073254236135,0
+          109.31035879774936,-0.028093912239240643,0
+          109.31058122001332,-0.029163409707842203,0
+          109.3107582458083,-0.030033908389432915,0
+          109.3107880929324,-0.030264578332775162,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. BERSATU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Danau Sentarum, Kel. Sungai Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30719025123335,-0.04923718198577442,0
+          109.30641377596692,-0.048744037664337145,0
+          109.30575941997915,-0.04831766959579928,0
+          109.30488652970621,-0.04775977031679804,0
+          109.30426157500574,-0.04735743910315967,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. HANURA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ujung Pandang, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29952004873337,-0.03250854782773711,0
+          109.29869634515887,-0.031220556885965697,0
+          109.29808368220574,-0.030269388977835862,0
+          109.29757770701644,-0.029486184051983416,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. HARAPAN/ILAHI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Petani, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.2988713492025,-0.04004550093512055,0
+          109.29797280918251,-0.0407509217306867,0
+          109.29689575652515,-0.04161351403430277,0
+          109.29643014419298,-0.04198524895211296,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG KEMUNING]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. PGA. Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31449466621166,-0.04895929281541591,0
+          109.3132267526795,-0.05022925112173718,0
+          109.31309532443777,-0.05036604372877848,0
+          109.31297998945013,-0.05041164126440803,0
+          109.31276809493795,-0.050647675565918635,0
+          109.3126339844872,-0.05067717985356293,0
+          109.31213699550926,-0.05119562629868536,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SENTOSA DALAM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Uray Bawadi, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32227561970649,-0.0403828255164729,0
+          109.32303378807592,-0.03969618180362664,0
+          109.32344684826421,-0.039387727840363346,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG ARI KARYA INDAH 7]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ampera, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30200270150385,-0.05427561636372981,0
+          109.3029252277745,-0.05358092453660386,0
+          109.30350142040459,-0.05315445348823191,0
+          109.30414246835915,-0.052660927239898105,0
+          109.30448310890404,-0.052416846322161786,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. GUNUNG JATI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. H. Rais Arahman, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31928005825841,-0.02052255638674728,0
+          109.31947799586749,-0.02132130876189325,0
+          109.31970771191016,-0.02230532022126412,0
+          109.31993221577125,-0.023256702650186614,0
+          109.32011728819327,-0.02396234802723782,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG PRAJAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Putri Candramidi, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32342637445254,-0.03337960564402172,0
+          109.32254069457804,-0.034063249750570616,0
+          109.32181113372599,-0.03462570471820146,0
+          109.32155095945154,-0.0342877464434397,0
+          109.32196571298311,-0.03396616580696509,0
+          109.322558871419,-0.033486050476475085,0
+          109.3228109990664,-0.03385083083952411,0
+          109.32221018424707,-0.03431753512553334,0
+          109.32197951427179,-0.03396080138988014,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SENTARUM JAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Danau Sentarum, Kel. Sungai Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31133852405605,-0.04386569042716455,0
+          109.31084499759731,-0.04354918985548699,0
+          109.31021978941158,-0.04315758745142647,0
+          109.30993927099598,-0.042997211721411646,0
+          109.30977297403706,-0.04326543254689435,0
+          109.3096710500945,-0.04330298346239247,0
+          109.3092392211729,-0.043041917435615175,0
+          109.30894904441902,-0.04286489169037345,0
+          109.30893026895592,-0.042792472067207245,0
+          109.30898927755425,-0.0426744549033735,0
+          109.30829632950304,-0.042256902453498175,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG TRIA 4]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Uray Bawadi, Kel. Sungai Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32256413110406,-0.040743092849560375,0
+          109.3237067521444,-0.03980431992626899,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG TRIA 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Uray Bawadi, Kel. Sungai Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.323066687704,-0.041323617432568974,0
+          109.32403228294936,-0.040518954933335356,0
+          109.32492447503716,-0.03983004466847289,0
+          109.32493520387322,-0.03973884958395724,0
+          109.3244094909063,-0.03908975515593871,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KURNIA INDAH]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Suwignyo, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31568353760588,-0.03186063190528798,0
+          109.31712564690474,-0.030779602774142756,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. GANDA DEWATA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ujung Pandang, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30112216255066,-0.031498512206747244,0
+          109.30045690450811,-0.03038411261773152,0
+          109.30001696118802,-0.02961606618067022,0
+          109.29961928877208,-0.028883964656022568,0
+          109.29941365071625,-0.028489679980253757,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CENDANA MULIA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ampera, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30621951659668,-0.05884236871506075,0
+          109.30681496699799,-0.0583515247220363,0
+          109.30715663354226,-0.058051117467362016,0
+          109.30742485444375,-0.057812400987066206,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. SILIWANGI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pangeran Nata Kusuma, Kel. Sei Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3159835852789,-0.03861893900700663,0
+          109.316900900762,-0.03974546652982347,0
+          109.31756025794266,-0.040555027216544505,0
+          109.31822635482581,-0.04142228955390386,0
+          109.31862336857478,-0.04189440503043875,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KALI BENING]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Danau Sentarum, Kel. Sei Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3061136175146,-0.05080589586380855,0
+          109.30593927392863,-0.050706654169199304,0
+          109.30568982849024,-0.05054035727518798,0
+          109.30518825540446,-0.05020776348588038,0
+          109.30445996796686,-0.04969941738074575,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PANCASILA 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Gusti Hamzah, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32174749617798,-0.03041695139629581,0
+          109.32277624697588,-0.029748834162441923,0
+          109.3232295402994,-0.029440380166876914,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. ANDAYANI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Putri Dara Nante, Kel. Sei. Bangkong 
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3293689010261,-0.036159773326452316,0
+          109.32996703363642,-0.03541143715727395,0
+          109.33036775059281,-0.034929316515644106,0
+          109.33088979166394,-0.03432836314475393,0
+          109.33145409311055,-0.03362787626369327,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MERDEKA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Merdeka, Kel. Tengah
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3306435946065,-0.025571175296084783,0
+          109.33001562715424,-0.026129405257114532,0
+          109.32963475347412,-0.02652368994068206,0
+          109.32925805325817,-0.02684346825572121,0
+          109.32910784955334,-0.026905159056282,0
+          109.32907029862713,-0.02703926949217143,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PIPIT]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Merdeka, Kel. Tengah
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32973718351309,-0.02482117336969792,0
+          109.32956066074235,-0.02505670471652214,0
+          109.32922270240647,-0.025499269160902355,0
+          109.32827651708135,-0.0266024382032465,0
+          109.32819859873871,-0.02660773548005618,0
+          109.32760851275543,-0.02602033176774124,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. RAWASARI 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. DR. Sutomo, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31884239323472,-0.04563513519578867,0
+          109.31987236149644,-0.04470535725724342,0
+          109.32113895326574,-0.043555279045401143,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MORODADI 5 JALUR 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Pak Benceng, Kel. Sei. Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30987578459167,-0.05268977883717606,0
+          109.30957805939101,-0.052502024285231694,0
+          109.30953782625579,-0.052359867266970374,0
+          109.30852227776484,-0.051673394026002815,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG NUANSA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ujung Pandang, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30323034960543,-0.030118390483943894,0
+          109.30264588630837,-0.028980657161842557,0
+          109.30236042024126,-0.02841624142791064,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. MITRA RAYA LESTARI 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. DR. Wahidin, Kel. Sei. Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30791105218123,-0.036304778259976904,0
+          109.30852571781588,-0.03580096283513936,0
+          109.30940548237277,-0.03508213095668406,0
+          109.30980540034602,-0.03474544658030343,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. PERMATA AMPERA 3 ]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ampera, Kel. Sei Bangkong
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.2995044853659,-0.05187384493489592,0
+          109.29749282860473,-0.054153721621490944,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MEKAR JAYA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Paralel Sungai Jawi, Kel. Sungai Jawi
+Kecamatan : PONTIANAK KOTA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30991346330052,-0.02341753959926763,0
+          109.31020400204204,-0.02424877438725788,0
+          109.31045391260386,-0.0250392817791301,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG PURNAMA ANGGREK 2 ]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33379663738492,-0.05046204410796213,0
+          109.33410587388903,-0.051350302601551524,0
+          109.3343856938252,-0.0521476453265939,0
+          109.33471640850769,-0.05317563269641403,0
+          109.33497551190021,-0.0539700861912331,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SUMBER AGUNG 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kesehatan, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31417316879492,-0.0589666404283401,0
+          109.31500690594146,-0.05949897693576243,0
+          109.31564571344859,-0.059904873799905375,0
+          109.31643696510798,-0.06040912881676244,0
+          109.31700559341914,-0.060776591246323085,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG WAHYU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Veteran, Benua Melayu Darat
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34311125472209,-0.043597153354829755,0
+          109.34204272900115,-0.0448624864898694,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. SYUKUR 6]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Veteran, Benua Melayu Darat
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34349218379839,-0.043858525728906354,0
+          109.34305230151995,-0.043496427617108306,0
+          109.34258017733714,-0.04312549279235668,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. HIKMAH JAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Harapan Jaya, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31275604422649,-0.06368428562925105,0
+          109.3122448615577,-0.06461970043884131,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. BAYU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Pura, Kel. Benua Melayu Laut
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34622635429446,-0.03365361767592214,0
+          109.34669842308108,-0.03345245203430768,0
+          109.34676816051547,-0.03339344344601698,0
+          109.34679766481463,-0.03333711706625603,0
+          109.34721608942095,-0.03307694283551121,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[HARAPAN JAYA 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Harapan Jaya, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31164042047601,-0.062856792850978,0
+          109.31186840824228,-0.06253224575447115,0
+          109.31193278125863,-0.06253492796189408,0
+          109.31280718139749,-0.06313037800513897,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG.ANTARA KITA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Nirbaya, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31443757239288,-0.0612667767441254,0
+          109.31379759322931,-0.06204899033637473,0
+          109.31317192305255,-0.06275453634535341,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. PURNAMA DALAM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama 1, Kel. Akcaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32788556677531,-0.05426328849334053,0
+          109.32762271029185,-0.05403530082889462,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PURNAMA AGUNG 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama 1, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3307866192306,-0.05204381636875467,0
+          109.33120772604593,-0.05270095730287539,0
+          109.33160541487405,-0.05347487695483226,0
+          109.33216566619672,-0.05454321074259518,0
+          109.33248240561409,-0.05516607983241006,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PURNAMA 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama 1, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33543093873436,-0.049852801485960316,0
+          109.33557050668628,-0.05019836112560193,0
+          109.33581983620559,-0.05100710318077805,0
+          109.33607148429269,-0.051897808012542186,0
+          109.33645164012603,-0.05320612834458165,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG.SEJAHTERA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Perdana, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34280723953827,-0.05608641611693388,0
+          109.34254706526383,-0.055938894691599995,0
+          109.34187022052538,-0.05550853802751035,0
+          109.34136929546696,-0.05514418978961985,0
+          109.34126200710637,-0.055007397193061656,0
+          109.34048684870106,-0.05435717080162449,0
+          109.34010865722996,-0.05401653040906785,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. KARYA BARU 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karya Baru, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33823032560304,-0.0525023275149513,0
+          109.33917125085134,-0.05549287101866007,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[PURNAMA AGUNG 7 BLOK L - M]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama 1, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32909123957279,-0.06137211016953033,0
+          109.32998776758791,-0.06276873075935813,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG PURNAMA ANGGREK 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33346147274267,-0.050558098051770445,0
+          109.33399255012762,-0.052116283700291983,0
+          109.33421674228816,-0.05281148124482317,0
+          109.33451924660937,-0.05375006523343398,0
+          109.33466854888184,-0.05414879067950641,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SUKA JAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Nirbaya, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31555505619758,-0.0618785089376708,0
+          109.31664167456279,-0.060571280160687954,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KARYA BARU 4]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karya Baru, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33547855972131,-0.053751946132762844,0
+          109.3364462464823,-0.05575553611680824,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PEMANGKAT 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Prof. M. Yamin, Kel Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.316967203829,-0.05036924198137658,0
+          109.31718178055019,-0.05053285666785049,0
+          109.31810982486934,-0.05117658657784598,0
+          109.31889869892734,-0.05174045945891592,0
+          109.31957193339008,-0.05221221249912058,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. SEJAHTERA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kesehatan, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31425943215072,-0.05874024557377068,0
+          109.31353791792571,-0.058313774562903826,0
+          109.31277802770387,-0.057845901341512455,0
+          109.31203406582767,-0.057412449810675684,0
+          109.31102555523807,-0.056827728536004936,0
+          109.31062660155703,-0.05656089868943401,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. YUDISTARI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Perintis, Kel. Akcaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32428336460839,-0.05349022157791464,0
+          109.32502745066131,-0.052301134894243595,0
+          109.32560666528332,-0.051431899603651784,0
+          109.32599202701704,-0.05082575601511456,0
+          109.3262277603452,-0.050573929531479746,0
+          109.32686524028418,-0.04979667975298546,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. DAMAI 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Bina Jaya, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30723214157956,-0.06699036857029919,0
+          109.30798047789472,-0.0674543904105093,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG REMAJA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Wonobaru, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32026389087605,-0.05478271433634762,0
+          109.32081148686211,-0.05395271659793879,0
+          109.3212269886576,-0.05328694093280377,0
+          109.32183651204616,-0.05230957707143687,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG MADYOSARI 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Wonobaru, Kel. Akcaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32105341427871,-0.05549132513685014,0
+          109.32162939277225,-0.05453897488620607,0
+          109.32209312958253,-0.05379191344025387,0
+          109.32254859155546,-0.05305265119283783,0
+          109.32274681175886,-0.052732119090104945,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[PURNAMA AGUNG 7 BLOK U]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama, Kel. Parit Tokaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32764506289095,-0.06277478081170726,0
+          109.32857378916265,-0.06409819417604824,0
+          109.32876690821172,-0.06435836828702611,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MENTARI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Purnama 1, Kel. Akcaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32719532909005,-0.05486579235475342,0
+          109.32677690448372,-0.05445541456221633,0
+          109.32615796227742,-0.05387134133414943,0
+          109.32552066239339,-0.05330324035047558,0
+          109.32518763860844,-0.05305647722740279,0
+          109.32518227419041,-0.0529465067048448,0
+          109.32583920766501,-0.05211370376242168,0
+          109.3261000349487,-0.05176371071571498,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG KARYA BHAKTI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Karya Bhakti, Kel. Akcaya
+Kecamatan : PONTIANAK SELATAN
+Rencana : PONDASI PASANGAN BATU
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33125818763335,-0.04389860008122208,0
+          109.33016884417657,-0.04443772393303303,0
+          109.32931090759973,-0.044879917978297205,0
+          109.32885224985819,-0.045117665347181965,0
+          109.32800576301452,-0.04563831361218322,0
+          109.32689329616323,-0.04630285134403879,0
+          109.32656983556035,-0.046486837017805094,0
+          109.32562079675483,-0.0470773859899572,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG DAMAI 4]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Bina Jaya, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30778965898924,-0.06638283691047511,0
+          109.30882499166898,-0.06717408803244015,0
+          109.30939361998014,-0.06761128779943883,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG BINA KARYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Prof. M. Yamin, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.31215178480079,-0.055090755319152473,0
+          109.31319508693173,-0.05571295034383593,0
+          109.31398937321899,-0.056158549246802705,0
+          109.31481281138656,-0.05658502027376316,0
+          109.31560674525497,-0.05706513545129393,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG GUNUNG KOTA JALUR 4]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Prof. M. Yamin, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30636556758327,-0.06350209851747912,0
+          109.30595002455334,-0.06429235284842905,0
+          109.30596880001644,-0.06433795037296482,0
+          109.30641155820376,-0.06462514025545321,0
+          109.30652957540042,-0.0646117292189111,0
+          109.30661808829791,-0.06452053417031028,0
+          109.30674683433062,-0.06425499564550437,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG GUNUNG KOTA JALUR 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Gunung Kota, Kel. Kota Baru
+Kecamatan : PONTIANAK SELATAN
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30592736023095,-0.06322292525758073,0
+          109.30525680797723,-0.06431190144317063,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. DWI RATNA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Dwi Ratna, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3714160282135,-0.003601843700844501,0
+          109.37270348854065,-0.003642076835978868,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. TELUK KERAMAT]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Khatulistiwa, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33518153468026,-0.010789055425289466,0
+          109.33593294447826,-0.009842938006398525,0
+          109.33649352616237,-0.009392326898236948,0
+          109.33793585542219,-0.008899499635927262,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SIDOMUKTI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. 28 Oktober, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36334997785252,-0.008605285585444834,0
+          109.36172317599255,-0.008652625057083876,0
+          109.36059794524886,-0.008654252007288752,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. PERUM DHARMA PUTRA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Darma Putra, Kel. Siantan hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.343855192035,-0.000393173440483036,0
+          109.34332210299328,-0.00038588284751205315,0
+          109.34174921463284,-0.00035949533713802386,0
+          109.34068983221732,-0.00034048457633041064,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. PENGHARAPAN SETIA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL.Parit Pangeran, Kel.Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35564275529259,-0.007281241317460731,0
+          109.35533161904686,-0.00720077504766272,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. DARMA PUTRA 23]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Darma Putra, Kel. Siantan hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34393461875197,0.0015163526189523628,0
+          109.34436108998534,0.0014358863485436845,0
+          109.34524621896026,0.0011810764921880463,0
+          109.34677430832198,0.0007358297957680901,0
+          109.34764104163105,0.00047995827310955635,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. BARU 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Selat Sumba, Kel. Siantan Tengah
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34924576778599,-0.01424376815956,0
+          109.34935842056461,-0.01427595466673877,0
+          109.34961054821201,-0.01431887000963956,0
+          109.35012271845085,-0.014383243023971657,0
+          109.35128290652733,-0.014485166963305368,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. PURNA JAYA 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Budi Utomo, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33140143734568,0.00064499026278862,0
+          109.33102056366556,0.001176067647669096,0
+          109.33092400414102,0.0014121020409069,0
+          109.32992554996508,0.00286027575420378,0
+          109.32857723001723,0.004932089452017011,0
+          109.32760677049396,0.0065054730243274675,0
+          109.32678836841876,0.007675485321314051,0
+          109.32578292020025,0.009201430423518838,0
+          109.32567273832922,0.009435205207535081,0
+          109.32670807100897,0.010103075242534296,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SINAR PELITA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Khatulistiwa, Kel. Batulayang
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32134805010128,0.0022144827199860584,0
+          109.3212014977214,0.0012798111679345212,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SINAR PELITA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Khatulistiwa, Kel. Batulayang
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32286733459455,0.0028830842759082894,0
+          109.3220335157747,0.0018915374005224986,0
+          109.32144729183483,0.002311286130004847,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KETO]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Parit Pangeran, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35621581350279,-0.0028539775770005577,0
+          109.35601196561765,-0.0027654646796158953,0
+          109.35589126621198,-0.002647447483098771,0
+          109.35584298644972,-0.00261257876592719,0
+          109.35575715576124,-0.002634036438032778,0
+          109.35573033367109,-0.002711820499377369,0
+          109.35570351158094,-0.002797651187748833,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. KARYA USAHA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Khatulistiwa, Kel. Batu Layang
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.29471055272256,0.01047249786873323,0
+          109.29506769897398,0.011544803514200813,0
+          109.295260324992,0.012120492378118661,0
+          109.29549511180005,0.012864973696639496,0
+          109.29566040402096,0.013411643406150054,0
+          109.29579956668204,0.013889895670452294,0
+          109.29585857528036,0.014190303071088588,0
+          109.29586741213973,0.014421396023445361,0
+          109.29585668330367,0.014638654946682612,0
+          109.29588167264626,0.014971115028753732,0
+          109.29597554996178,0.015365399740132032,0
+          109.29609808608507,0.015731171378796288,0
+          109.296267065253,0.01609112235292348,0
+          109.29634753152345,0.016249372678493752,0
+          109.29652187510942,0.016808124532848183,0
+          109.29675606954174,0.017574769882380704,0
+          109.29702704471435,0.018414589510924638,0
+          109.29718133088772,0.019049513728705145,0
+          109.29739393282614,0.01982618527215512,0
+          109.29759912743043,0.020602701577807258,0
+          109.29785234357848,0.021419473210354274,0
+          109.298106382936,0.022199596190628376,0
+          109.29824716937628,0.022716381042130113,0
+          109.29849271778698,0.023809031091903125,0
+          109.29878644346445,0.02493970999455896,0
+          109.29905864541706,0.026008068624171446,0
+          109.29928734476334,0.027035264170235242,0
+          109.29953774020407,0.028111461215297378,0
+          109.29988223805776,0.029541875585778282,0
+          109.30014992958695,0.030637088187033933,0
+          109.3004146215444,0.03156136851551528,0
+          109.30050795939962,0.03187826286790218,0
+          109.30085833422504,0.032626574845781645,0
+          109.30131076625878,0.03358057980613018,0
+          109.30157391750708,0.034164662798474514,0
+          109.30220155441657,0.03522949958211527,0
+          109.30239830705239,0.035586287604849776,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG FLORA INDAH]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Flora, Kel. Batu Layang
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.30307370251035,0.015757411436581565,0
+          109.3041090351901,0.01532289359214262,0
+          109.30537410197712,0.014841596054235627,0
+          109.30595207582553,0.01459621613179914,0
+          109.30736516262243,0.013855323966135476,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG AMAL]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Selat Panjang, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36763392164062,-0.015248518525066436,0
+          109.36744367002859,-0.015931926114500894,0
+          109.36734442829504,-0.016436181389173722,0
+          109.36723445772543,-0.017181835463228202,0
+          109.36711455502348,-0.017886751795532712,0
+          109.36706439400791,-0.018257976918695556,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG SELAT MERAUKE]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Gusti Situt Machmud, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35781950369517,-0.0161444533135237,0
+          109.35781118651175,-0.0170636626524119,0
+          109.35781655092978,-0.017475712027025324,0
+          109.35782996197486,-0.017920958702250064,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. TELUK PARI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Khatulistiwa, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33051652751442,-0.00580099300115027,0
+          109.33085680529109,-0.005021558485905293,0
+          109.33115565713933,-0.004404516004422625,0
+          109.33130854305318,-0.0043884227503688785,0
+          109.33138632711461,-0.0042087147468789655,0
+          109.33148808369981,-0.0037477095122040527,0
+          109.33153280187025,-0.003231757878194661,0
+          109.33174737859144,-0.0032022535790749217,0
+          109.33176802749313,-0.0028447520874824417,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GG. SWASEMBADA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Gusti Situt Machmud, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36001468773861,-0.015647301203401087,0
+          109.36002045779742,-0.014436002416364566,0
+          109.36003357820482,-0.014080013252607963,0
+          109.36001480274172,-0.013238368746974438,0
+          109.36001380828338,-0.012955200658400426,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. GASPAR]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Gusti Situt Machmud, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35163005648008,-0.01848495171086021,0
+          109.35165038437935,-0.01678645638525927,0
+          109.3516584310064,-0.016049531283479197,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. WAHID]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Parwasal, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34987179944312,-0.0005575354923983255,0
+          109.3487157673577,0.00011569897032161685,0
+          109.34781919210627,0.0006268391477581446,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KALI LANDAK]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Selat Panjang, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36531904828576,-0.015037480755984965,0
+          109.36528417956856,-0.0156302489270374,0
+          109.36513397586373,-0.016566339836270864,0
+          109.36491847600587,-0.017681024155844226,0
+          109.36485946740754,-0.018021664684210556,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. DHARMA PUTRA 24]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Dharma Putra, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34392232892549,0.0019230117024013344,0
+          109.34416909215486,0.0018935074032434285,0
+          109.34514273402726,0.0016601552190697118,0
+          109.34611905810868,0.0014133919897791134,0
+          109.34716484770536,0.0011263956252650928,0
+          109.34788636193036,0.0009145011131206312,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG BARU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Kebangkitan Nasional, Kel. Batu Layang
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.32321466588814,0.00825871240775555,0
+          109.32297058486779,0.008408916110993444,0
+          109.32273991489251,0.008551073187229911,0
+          109.3226299443229,0.00856984865013147,0
+          109.32253606700738,0.008551073187229911,0
+          109.32247437620003,0.008513522261439522,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SWASEMBADA 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. 28 Oktober, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36201182527952,-0.012867624873489556,0
+          109.36195549889021,-0.01383858451049221,0
+          109.3619528166812,-0.014453879365037055,0
+          109.36194477005415,-0.01538070305074793,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. BIMASAKTI 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. 28 Oktober, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON + ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36345596937872,-0.012836711206635867,0
+          109.36204753268362,-0.012836711206635867,0
+          109.36194560874105,-0.012812571326102303,0
+          109.36132117068905,-0.012839910064099134,0
+          109.36074745064866,-0.012894572588865017,0
+          109.36005007630479,-0.012918712469385859,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PERSADA 4]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Parwasal, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34403693203467,-0.0074589296096713754,0
+          109.34586837083737,-0.00820652762541428,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PERSADA 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Parwasal, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3438462424582,-0.008006245304888122,0
+          109.34495667699036,-0.00849172513154439,0
+          109.34566396304399,-0.008798953475338293,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. HARAPAN 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Selat Sumba, Kel. Siantan Tengah
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3469357853586,-0.016932703436782715,0
+          109.34729673954212,-0.016125595723191548,0
+          109.34753450511721,-0.015541362061827125,0
+          109.34785868829135,-0.014753884989265822,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. HARAPAN 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Selat Sumba, Kel. Siantan Tengah
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.34677193193647,-0.016818890749489425,0
+          109.3471170456263,-0.01609647689158726,0
+          109.34727687736824,-0.015732354560048234,0
+          109.34748839845224,-0.015150315224959536,0
+          109.34782273161034,-0.014365734200216832,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. SELAT SUMBA 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. GST.Situt Mahmud, Kel.Siantan Tengah
+Kecamatan : PONTIANAK UTARA
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3466865062054,-0.018357354870964467,0
+          109.34691082672816,-0.017516580751434127,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. KURNIA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Parit Pangeran, Kel. Siantan Hulu
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35557064091586,-0.008548064951807812,0
+          109.35621276408119,-0.00856684041470937,0
+          109.35700291164926,-0.008599026922524252,0
+          109.35813508152535,-0.008649988893227968,0
+          109.35943045393583,-0.00867412877409231,0
+          109.36051313454277,-0.008714945366843552,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. DHARMA PUTERA 5]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Dharma Putera, Kel. Siantan Hilir
+Kecamatan : PONTIANAK UTARA
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33982997069995,-0.008046226358367544,0
+          109.33957247863452,-0.007442729335524929,0
+          109.33932436644113,-0.006886273143913153,0
+          109.33918757378137,-0.0065751369003413445,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. TELUK AIR]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Khatulistiwa, Kel. Batu Layang
+Kecamatan : PONTIANAK UTARA
+Rencana : PAS. BATU KALI + BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.33225091799079,-0.007727260177279979,0
+          109.33164205654441,-0.008556062754508716,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. BAHARI ELOK]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Panglima Aim, Kel. Tanjung Hulu
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36493696983644,-0.029463128245447476,0
+          109.36737506453665,-0.027269081540288394,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CENDANA PERMAI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36352378052572,-0.037248193981222116,0
+          109.36328774613241,-0.03691560013302336,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CENDANA PERMAI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36233253630553,-0.03752177039613481,0
+          109.36255784186278,-0.03787045749261142,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CENDANA PERMAI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36134828090371,-0.03816680016791363,0
+          109.36156909641943,-0.03850256067146455,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CENDANA PERMAI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36032667922564,-0.039300809700474185,0
+          109.36457529830523,-0.036575685938998646,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ KOMP. CENDANA PERMAI 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36001080720462,-0.03904331769521783,0
+          109.36415213792361,-0.0363503804273719,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. RAMIN 3]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ramin Raya, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37021330128277,-0.029376636965842893,0
+          109.37074437866772,-0.028982352291791583,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. RAMIN 2]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ramin Raya, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37000856590544,-0.02915530124302088,0
+          109.37050209236418,-0.028766380985558355,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. RAMIN 1]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ramin Raya, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36992681555387,-0.02881670090986369,0
+          109.37027282051679,-0.028564573294072353,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CITRA PERMATA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36769685739444,-0.047101332350315446,0
+          109.37064282982692,-0.04534271074295814,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. CENDANA INDAH BLOK C-D]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37012482037187,-0.0500830142960787,0
+          109.37419104923845,-0.047518823408157426,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GG. MANUNGGAL]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tritura, Kel. Tanjung Hilir
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35839248386446,-0.025795644946542132,0
+          109.35838466156918,-0.02685887560801846,0
+          109.35831224192577,-0.027537474412329708,0
+          109.35822909344631,-0.028347066121443214,0
+          109.35820495356518,-0.028406074712532807,0
+          109.35816203822094,-0.028416803547275212,0
+          109.3576193553472,-0.028420388534012863,0
+          109.35658938708548,-0.028436481786132832,0
+          109.35535288872961,-0.028404295281905613,0
+          109.354701111939,-0.028404295281905613,0
+          109.35406006398443,-0.02836942656899598,0
+          109.35351557555441,-0.028315782395258504,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. TELAGA BIRU]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Paralel Tol, Kel. Dalam Bugis
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.35829456322938,-0.032482521481814935,0
+          109.35778494351655,-0.03129162086365091,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. MELATI DALAM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Paralel Tol, Kel. Dalam Bugis
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.357908236414,-0.032688602186431055,0
+          109.35762928667646,-0.031985863536470566,0
+          109.35738252344709,-0.03146015065012269,0
+          109.35694130267484,-0.030658175493775527,0
+          109.35676427687986,-0.03036313254396351,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. SUKA MULYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Parit Mayor
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37401386665647,-0.055074335340698014,0
+          109.37431427406614,-0.05492413170505327,0
+          109.37445374893491,-0.05479002131579077,0
+          109.37677654194181,-0.05330944259839655,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. NUSA ABADI]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Parit Mayor
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37251119041412,-0.05298993737261418,0
+          109.37037883424728,-0.054441011811931214,0
+          109.37018303298919,-0.05455902895520585,0
+          109.3692844929692,-0.055041826357054645,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. VILLA ANIMA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Banjar Serasan
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36850669940566,-0.048064627019639504,0
+          109.36708512862776,-0.04907313724688403,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG 85 LAUT]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Harapan, Kel. Banjar Serasan
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36897701964881,-0.05325821728268871,0
+          109.36840302691962,-0.0536122687186829,0
+          109.36796850905921,-0.053875125086509504,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ GANG. DUSUN MAYA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Harapan, Kel. Banjar Serasan
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37031812415626,-0.05304900506955442,0
+          109.36932570682075,-0.053741014694893396,0
+          109.3683440183213,-0.05449739729966742,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GG. TAMAN SISWA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37043366238879,-0.04286408046179856,0
+          109.36888870999621,-0.04392891713525218,0
+          109.36628060620319,-0.045421523383995,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. M. ARIF]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Parit Mayor
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37070269073104,-0.05071596725157501,0
+          109.36854619468306,-0.0525291398096237,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. ASUHA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Saigon
+Kecamatan : PONTIANAK TIMUR
+Rencana : ASPAL
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.36598950288692,-0.045068245158871256,0
+          109.3689935769836,-0.04316924173940348,0
+          109.3700557317535,-0.042471867590303754,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. H. TAHA]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ya' M. Sabran, Kel. Tanjung Hulu
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37984778811415,-0.026788542942242935,0
+          109.37914857461419,-0.028757360652885523,0
+          109.37915362141803,-0.028857839125952984,0
+          109.37923489782497,-0.028978352403794903,0
+          109.37929973340408,-0.0320346089974711,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. PENTAGON DALAM]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ya' M. Sabran, Kel. Tanjung Hulu
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37039908696943,-0.027355572115552784,0
+          109.37060829927259,-0.027293881315220994,0
+          109.37113401223951,-0.027360936532968515,0
+          109.371581941145,-0.027385076411352023,0
+          109.37160876323514,-0.027430673959385733,0
+          109.37209692527586,-0.027425309541970002,0
+          109.37277847698203,-0.027430161683587685,0
+          109.37315398624412,-0.027414068431340494,0
+          109.37345193833471,-0.02742487289613645,0
+          109.37385426968694,-0.027427555104857036,0
+          109.37412517279745,-0.027443648357091507,0
+          109.3741519948876,-0.02746778823544957,0
+          109.37417921374299,-0.028636601666355132,0
+          109.37423194263715,-0.029647794334157235,0
+          109.37428022239942,-0.030669715827249137,0
+          109.37429095123548,-0.030907213917527238,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[GANG. 86]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Ya' M. Sabran, Kel. Tanjung Hulu
+Kecamatan : PONTIANAK TIMUR
+Rencana : JEMBATAN COR GANTUNG
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.3685432796234,-0.025528544298029407,0
+          109.36861838147581,-0.02501356021726461,0
+          109.37024916455687,-0.02215969006753136,0
+          109.37113965794981,-0.022481555124904802,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[KOMP. GRAND PARMA RESIDANCE]]></name>
+      <description><![CDATA[Lokasi Kegiatan : JL. Tanjung Raya 2, Kel. Parit Mayor
+Kecamatan : PONTIANAK TIMUR
+Rencana : BETON 
+Kota/Kab : Kota Pontianak]]></description>
+      <LineString>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          109.37651162622137,-0.05860368332519584,0
+          109.37822427771857,-0.05748303255737187,0
+          109.37905675631225,-0.05688321183578059,0
+          109.37963264848372,-0.05647724875203117,0
+          109.38023882772109,-0.05601054460830723,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
